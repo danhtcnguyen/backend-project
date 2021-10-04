@@ -5,6 +5,7 @@
 4. run 'python manage.py migrate'
 
 Endpoints:
+
 return all factory data: 'get-all-factories/'
 
 return a specific factory: 'get-all-factories/<int:id>/
